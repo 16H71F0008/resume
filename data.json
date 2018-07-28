@@ -1,0 +1,47 @@
+{
+	"details":{
+		"name":"sam",
+		"image":"image.png",
+		"phone":"1234569870",
+		"email":"xyz@gmail.com"
+	},
+	"education":[
+		{
+			"course":"MCA",
+			"college":"MIC college",
+			"percentage":"76.2%"
+		},
+		{
+			"course":"BSC",
+			"college":"SDMSMK",
+			"percentage":"75%"
+		},
+		{
+			"course":"MPC",
+			"college":"ABC",
+			"percentage":"75%"
+		},
+		{
+			"course":"SSC",
+			"college":"KCschool",
+			"percentage":"82%"
+		}
+	],
+	"skills":[
+		{
+			"title":"programming languages",
+			"output":[
+				"c","c++","java","python"
+			]
+		},
+		{
+			"title":"operating systems",
+			"output":[
+				"windows","linux","MAC"
+			]
+		}
+	],
+	"carrier":{
+		"co":"communicate with every one in the organization and work well for the company.resources provided by company are not used in the wrong way and every one should work in a correct manner"
+	}
+}
